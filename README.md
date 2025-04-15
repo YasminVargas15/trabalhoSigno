@@ -1,6 +1,6 @@
 # trabalhoSigno
 
-//entrada de dados 
+        //entrada de dados 
         int sexo, dia, mes, ano, idade, numeroSorte, numCor;
         String nome, signo, corSorte;
         Scanner ler = new Scanner(System.in);
@@ -125,4 +125,4 @@
                     + idade + " anos. Seu número da sorte é " + numeroSorte + " e sua cor da sorte é " + corSorte);
         }
     }
-}
+    }
